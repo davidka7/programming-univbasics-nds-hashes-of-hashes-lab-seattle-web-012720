@@ -31,6 +31,7 @@
 # }
 
 def naming_system
+  Hoh = {}
   # Remember:
   #  Kingdom
   #  Phylum
