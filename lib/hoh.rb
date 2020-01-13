@@ -31,14 +31,14 @@
 # }
 
 def naming_system
-  Hoh = {
+  hoh = {
 #   label: "Kingdom",
 #   sub_category: {
 #     label: "Phylum",
 #     sub_category: {
 #       label: "Class"
 #     }
-return Hoh
+return hoh
   # Remember:
   #  Kingdom
   #  Phylum
