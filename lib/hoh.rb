@@ -38,6 +38,7 @@ def naming_system
 #     sub_category: {
 #       label: "Class"
 #     }
+return Hoh
   # Remember:
   #  Kingdom
   #  Phylum
